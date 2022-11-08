@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'drimay-app-3'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_27425353044C40AF8AB1A2EF38FFDD55 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5AE6584E521B4D9EA9B86E9B4707F23B }}
           package: '*.jar'
